@@ -36,8 +36,8 @@
 
 ## 🏆 Stats do jogador
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ram_pis&show_icons=true&theme=gruvbox&hide_border=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram_pis&layout=compact&theme=gruvbox&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ram-pis&show_icons=true&theme=gruvbox&hide_border=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram-pis&layout=compact&theme=gruvbox&hide_border=true"/>
 </p>
 
 <br>
@@ -52,7 +52,7 @@
 <sub>⚠️ Troque os `#` pelos seus links reais.</sub>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ram_pis&label=HIGH+SCORE+(visitas)&color=d65d0e&style=for-the-badge" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=ram-pis&label=HIGH+SCORE+(visitas)&color=d65d0e&style=for-the-badge" alt="contador de visitas" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d79921,50:d65d0e,100:282828&height=120&section=footer" width="100%"/>
