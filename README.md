@@ -14,42 +14,25 @@
 - 🎮 Perfil com tema de jogos 2D — porque programar também é subir de fase
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas (ADS)
 - 🌱 Sempre evoluindo e aprendendo coisas novas
-- 📍 *[adicione o que quiser aqui]*
 
 <br>
 
 ## 🎒 Inventário
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-282828?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Java-282828?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/CSS3-282828?style=for-the-badge&logo=css&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/PHP-282828?style=for-the-badge&logo=php&logoColor=8892BF" />
   <img src="https://img.shields.io/badge/Git-282828?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-282828?style=for-the-badge&logo=github&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/MySQL-282828?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-</p>
-
-<sub>⚠️ Troque/apague os badges acima pelas tecnologias que você realmente usa.</sub>
-
-<br>
-
-## 🏆 Stats do jogador
-<p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ram-pis&show_icons=true&theme=gruvbox&hide_border=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram-pis&layout=compact&theme=gruvbox&hide_border=true"/>
 </p>
 
 <br>
 
 ## 📡 Contato
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-282828?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-282828?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://www.instagram.com/ram_pis/"><img src="https://img.shields.io/badge/Instagram-282828?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
 </p>
-
-<sub>⚠️ Troque os `#` pelos seus links reais.</sub>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ram-pis&label=HIGH+SCORE+(visitas)&color=d65d0e&style=for-the-badge" alt="contador de visitas" />
