@@ -14,7 +14,7 @@
 - 🌱 Sempre evoluindo e aprendendo coisas novas
 
 ## 🎒 Inventário
-`HTML` `CSS` `JavaScript` `PQP` `Git` `GitHub` `MySQL`
+`HTML` `CSS` `JavaScript` `PHP` `Git` `GitHub` `MySQL`
 
 ## 🏆 Status do jogador
 ```
