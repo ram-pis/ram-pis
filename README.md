@@ -27,8 +27,6 @@
 └───────────────────────────────────┘
 ```
 
-<sub>⚠️ Editável à mão — ajuste as barras quando quiser.</sub>
-
 ## 📡 Contato
 - 📸 [Instagram](https://www.instagram.com/ram_pis/)
 
